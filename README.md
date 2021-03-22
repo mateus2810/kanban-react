@@ -6,4 +6,4 @@ npm start
 
 ### Projeto em execução:
 
-![alt text](https://github.com/mateus2810/kanban-react/tree/master/img/imagemProjeto.png)
+![alt text](https://github.com/mateus2810/kanban-react/blob/master/img/imagemProjeto.png)
