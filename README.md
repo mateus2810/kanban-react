@@ -1,0 +1,3 @@
+iniciando projeto
+
+npm start
